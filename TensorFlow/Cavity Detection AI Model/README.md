@@ -1,9 +1,17 @@
 ### 🎁 작성자 Profile
-> - [작성자의 Velog Blog](https://velog.io/@kim-src/series)
 > - [작성자의 LinkedIn Profile](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 > - [VisualCavity.py in Google Colab](https://colab.research.google.com/drive/1GfbTJVz26qkdz9aqml9yMpeJy6NDrHIr?usp=sharing)
 
 <br/>
+
+# 🚀 Cavity Detection AI Model (ver. 0.1)
+> - ver. 0.1 : 이미지 1장 학습 완료(2024-01-09)
+> - ver. 0.1.3 : 이미지 1장 학습에 대한 검토 완료
+> - ver. 0.1.7 : 학습한 이미지 1장을 가지고 다른 이미지 대조 완료
+> - ver. 0.2 : 이미지 100장 학습 완료
+> - ver. 0.2.3 : 이미지 100장 학습에 대한 검토 완료
+> - ver. 0.2.7 : 학습한 이미지 100장을 가지고 다른 이미지를 대조한 뒤 버전 비교 완료
+> - ver. 0.3 : 이미지 1,000장 학습 완료
 
 <!-- Update Date -->
 #### Date : January 9, 2024
