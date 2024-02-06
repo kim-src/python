@@ -1,3 +1,10 @@
+<!-- Introduction -->
+### 🎁 My Profile
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
+
+<br>
+<br>
+
 <!-- Contents -->
 ## ✅ All Python Projects (Descending order of difficulty)
 > ### 1. [Cavity Detection AI Model](https://github.com/Kim-src/Python/tree/main/TensorFlow/Cavity%20Detection%20AI%20Model) in TensorFlow Projects
