@@ -32,7 +32,7 @@
 
 ### 🎁 References
 > - 아래는 학습시킨 이미지이며 이는 맨홀을 지날 때의 GPR 신호가 가시화 된 모습임
-<p align="center"><img src="https://github.com/Kim-src/Cavity/assets/150884526/d6775c1a-e468-48e9-98b7-53a88272efda" width="360px"><p/>
+<p align="center"><img src="https://github.com/Kim-src/Images/assets/150884526/ff1bb03b-0237-463a-b371-5421133b8383" width="360px"><p/>
 
 <br/>
 
@@ -76,7 +76,7 @@
 <br/>
 
 ### 🎁 References
-> - 아래는 [GPR 탐사 모습](http://www.engjournal.co.kr/news/articleView.html?idxno=2251)이며 추후 시각화 된 GPR 신호를 공개할 예정임(공개 가능 시)
+> - 아래는 [GPR 탐사 모습](https://github.com/Kim-src/Images/assets/150884526/789c4aab-8955-47a6-92d1-9b845785490d)이며 추후 시각화 된 GPR 신호를 공개할 예정임(공개 가능 시)
 <p align="center"><img src="https://github.com/Kim-src/Cavity/assets/150884526/5c166a82-d5b4-4f4a-9fe6-31b9b99168b2" width="500px"><p/>
 
 <br/>
