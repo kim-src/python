@@ -4,7 +4,7 @@
 
 <br/>
 
-# 🚀 Cavity Detection AI Model (현재 ver. 0.1.0)
+# 🚀 개발 현황 : Cavity Detection AI Model (현재 ver. 0.1.0)
 > - v0.1.0 : 이미지 1장 학습 완료 (2024-01-09)
 > - v0.1.3 : 이미지 1장 학습에 대한 검토 완료
 > - v0.1.7 : 학습한 이미지 1장을 가지고 다른 이미지 대조 완료
