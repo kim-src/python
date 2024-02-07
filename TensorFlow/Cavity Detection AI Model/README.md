@@ -1,8 +1,9 @@
-### 🎁 작성자 Profile
-> - [작성자의 LinkedIn Profile](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
-> - [VisualCavity.py in Google Colab](https://colab.research.google.com/drive/1GfbTJVz26qkdz9aqml9yMpeJy6NDrHIr?usp=sharing)
+<!-- Introduction -->
+### 🎁 My Profile
+- ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
-<br/>
+<br>
+<br>
 
 # 🚀 개발 현황 : Cavity Detection AI Model (현재 ver. 0.1.0)
 > - v0.1.0 : 이미지 1장 학습 완료 (2024-01-09)
