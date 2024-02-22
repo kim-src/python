@@ -12,10 +12,10 @@
 > - 개발 내용 : 네이버 증권 사이트를 이용한 삼성전자 주식 종가 정보 수집
 > - 개발 역량 : Colab 활용, Python의 BeautifulSoup, Pandas, Requests 활용, 웹 크롤링 이해
 
-### 📌 2.[]()✅ 모델 소개
+### 📌 2. [VisualCavity AI](https://github.com/Kim-src/VisualCavity)
 > - 모델명 : VisualCavity AI
 > - 모델분류 : 이미지 학습 CNN AI 모델
-> - 상세내용 : 싱크홀(공동) 자동 분석 프로그램 제작을 위한 이미지 학습 AI 모델
+> - 상세내용 : 싱크홀(공동) 자동 분석 프로그램(VIsualCavity) 제작을 위한 이미지 학습 AI 모델
 > - 개발목적 : 3D-GPR 데이터 분석 난이도 하향
 > - 주요자료 : GPR 공동 탐사 데이터 및 30만장의 이미지
 
