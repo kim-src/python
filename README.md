@@ -6,7 +6,7 @@
 
 ## ✅ All Projects
 
-### 📌 1. [Stock Information](https://github.com/Kim-src/Toy-Projects/tree/main/Python/Stock%20Information)
+### 📌 1. [StockScraper](https://github.com/Kim-src/Toy-Projects/tree/main/Python/Stock%20Information)
 > - 개발 환경 : Google Colab
 > - 개발 목적 : Python을 이용한 웹 크롤링 경험 및 Colab 활용 겸험 습득
 > - 개발 내용 : 네이버 증권 사이트를 이용한 삼성전자 주식 종가 정보 수집
