@@ -9,13 +9,13 @@
 ### 📌 1. [Stock Information](https://github.com/Kim-src/Toy-Projects/tree/main/Python/Stock%20Information)
 > - 개발 환경 : Google Colab
 > - 개발 목적 : Python을 이용한 웹 크롤링 경험 및 Colab 활용 겸험 습득
-> - 개발 내용 : 
+> - 개발 내용 : 네이버 증권 사이트를 이용한 삼성전자 주식 종가 정보 수집
 > - 개발 역량 : Colab 활용, Python의 BeautifulSoup, Pandas, Requests 활용, 웹 크롤링 이해
 
 ### 📌 3. [KimLibrary_STS3](https://github.com/Kim-src/KimLibrary_STS3)
 > - 개발 환경 : Spring Tool Suite 3
 > - 개발 목적 : MVC 패턴의 Legacy Project 웹 개발 경험 및 STS3 활용 경험 습득
-> - 개발 내용 : KimLibrary 도서관 웹 페이지 제작 및 도서 대여자 관리
+> - 개발 내용 : 도서관 웹 페이지(KimLibrary) 제작 및 도서 대여자 관리
 > - 개발 역량 : STS3 활용, M-V-C 구축, Tomcat 서버 연동, 외부 라이브러리 이해, DB 생성, DB 연동
 
 
