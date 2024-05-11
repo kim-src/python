@@ -6,7 +6,7 @@
 
 ## ✅ All Python Projects
 
-### 📌 1. [StockScraper](https://github.com/Kim-src/StockScraper)
+### 📌 1. [주식정보 크롤링](https://github.com/Kim-src/StockScraper)
 > - 개발 환경 : Google Colab
 > - 개발 목적 : Python을 이용한 웹 크롤링 경험 및 Colab 활용 겸험 습득
 > - 개발 내용 : 네이버 증권 사이트를 이용한 삼성전자 주식 정보 수집
